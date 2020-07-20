@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Subhayu</h1>
 <h3 align="center">Currently studying BTech in Information Technology from CIEM, Kolkata. I'm highly motivated towards AI, DevOps and Ethical Hacking.</h3>
-- 👨‍💻 All of my projects are available [[here]](https://github.com/subhayu99)
+- 👨‍💻 All of my projects are available (https://github.com/subhayu99)
 
 - 💬 Ask me about **Python, C, ML, DL, Linux, Offensive Security...**
 
