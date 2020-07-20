@@ -21,7 +21,11 @@
 <img src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-original.svg" alt="redhat" width="20" height="20"/> 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="20" height="20"/> 
 <img src="https://github.com/konpa/devicon/blob/master/icons/github/github-original.svg" alt="redhat" width="20" height="20"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhayu99&show_icons=true" alt="subhayu99" /> </p>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhayu99" alt="subhayu99" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhayu99&show_icons=true" alt="subhayu99" /> </p>
 
 <p align="center">
 <a href="https://dev.to/subhayu kumar bala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="subhayu kumar bala" height="20" width="20" /></a>
