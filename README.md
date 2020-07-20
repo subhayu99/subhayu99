@@ -5,7 +5,7 @@
 <h3 align="center">Currently studying BTech in Information Technology from CIEM, Kolkata. I'm highly motivated towards AI, DevOps and Ethical Hacking.</h3>
 - 👨‍💻 All of my projects are available at (https://github.com/subhayu99)
 
-- 💬 Ask me about **Python, C, ML, DL, Linux, Offensive Security...**
+- 💬 Ask me about **Python, C, ML, DL, Linux, Cloud Computing, Offensive Security...**
 
 - 📫 How to reach me **balasubhayu99@gmail.com**
 
