@@ -8,7 +8,7 @@
 - 💬 Ask me about **Python, C, ML, DL, Linux, Cloud Computing, Offensive Security...**
 
 - 📫 How to reach me **balasubhayu99@gmail.com**
-
+<!--
 <p align="left">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="20" height="20"/> 
 <img src="https://github.com/konpa/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="amazonwebservices" width="20" height="20"/> 
@@ -22,7 +22,7 @@
 <img src="https://konpa.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="20" height="20"/> 
 <img src="https://github.com/konpa/devicon/blob/master/icons/github/github-original.svg" alt="redhat" width="20" height="20"/> 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p>
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhayu99" alt="subhayu99" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhayu99&show_icons=true" alt="subhayu99" /> </p>
