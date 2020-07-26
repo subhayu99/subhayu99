@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available here. 👇
 
 - 💬 Ask me about **Python, C, ML, DL, Linux, Cloud Computing, Offensive Security...**
-- 🕸️ Currently I'm learning **Front-End Web Development** from [Frontend Masters](https://frontendmasters.com/courses/web-development-v2)
+- 🕸️ Currently I'm learning **Front-End Web Development** from [Frontend Masters](https://frontendmasters.com)
 - 📫 How to reach me **balasubhayu99@gmail.com** 
 <!--
 <p align="left">
