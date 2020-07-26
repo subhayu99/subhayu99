@@ -6,8 +6,8 @@
 - 👨‍💻 All of my projects are available here. 👇
 
 - 💬 Ask me about **Python, C, ML, DL, Linux, Cloud Computing, Offensive Security...**
-- 🕸️ Currently I'm learning **Front-End Web Development**
-- 📫 How to reach me **balasubhayu99@gmail.com**
+- 🕸️ Currently I'm learning **Front-End Web Development** from [Frontend Masters](https://frontendmasters.com/courses/web-development-v2)
+- 📫 How to reach me **balasubhayu99@gmail.com** 
 <!--
 <p align="left">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="20" height="20"/> 
