@@ -24,7 +24,7 @@
 <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p>
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhayu99" alt="subhayu99" /> </p>
-
+<img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhayu99&show_icons=true" alt="subhayu99" /> </p>
 
 <p align="center">
