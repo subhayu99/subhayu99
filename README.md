@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://dev.to/subhayu kumar bala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="subhayu kumar bala" height="20" width="20" /></a>
-<a href="https://twitter.com/__dhrub__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="__dhrub__" height="20" width="20" /></a>
+<a href="https://twitter.com/subhayu99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="subhayu99" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/subhayu-kumar-bala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhayu-kumar-bala" height="20" width="20" /></a>
 <a href="https://fb.com/dhrub99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dhrub99" height="20" width="20" /></a>
 <a href="https://instagram.com/_s.u.b.h.a.y.u_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_s.u.b.h.a.y.u_" height="20" width="20" /></a>
