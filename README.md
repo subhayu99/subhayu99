@@ -1,7 +1,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Subhayu</h1>
+<p align="center">
+
+  <img width="420" height="220" src="intro.gif">
+
+</p>
 <h3 align="center">Currently studying BTech in Information Technology from CIEM, Kolkata. I'm highly motivated towards AI and Ethical Hacking.</h3>
 - 👨‍💻 All of my projects are available here. 👇
 
