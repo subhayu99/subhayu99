@@ -18,8 +18,13 @@
 <img src="https://github.com/konpa/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="redhat" width="20" height="20"/> 
 <img src="https://github.com/konpa/devicon/blob/master/icons/linux/linux-original.svg" alt="redhat" width="20" height="20"/> 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="20" height="20"/> 
-<img src="https://github.com/konpa/devicon/blob/master/icons/github/github-original.svg" alt="redhat" width="20" height="20"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p>
+<img src="https://github.com/konpa/devicon/blob/master/icons/github/github-original.svg" alt="redhat" width="20" height="20"/>
+
+## GitHub Stats :medal_military:
+
+<img align="left" alt="subhayu99's Github Stats" src="https://github-readme-stats-zeta-sand.vercel.app/api?username=subhayu99&show_icons=true&theme=dracula" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=subhayu99&hide=html&layout=compact" width="46%" />
+
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhayu99" alt="subhayu99" />
 <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen> </p>
