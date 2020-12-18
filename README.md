@@ -1,3 +1,4 @@
+![cover pic](https://github.com/subhayu99/subhayu99/blob/master/20201214_014622_0000.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Subhayu</h1>
 <h3 align="center">Currently studying BTech in Information Technology from CIEM, Kolkata. I'm highly motivated towards AI and Ethical Hacking.</h3>
