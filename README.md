@@ -1,10 +1,10 @@
-![cover pic](https://github.com/subhayu99/subhayu99/blob/master/20201214_014622_0000.png?raw=true)
+<!--- ![cover pic](https://github.com/subhayu99/subhayu99/blob/master/20201214_014622_0000.png?raw=true) --->
 
 <h1 align="center">Hi 👋, I'm Subhayu</h1>
 <h3 align="center">Currently studying BTech in Information Technology from CIEM, Kolkata. I'm highly motivated towards AI and Ethical Hacking.</h3>
 - 👨‍💻 All of my projects are available here. 👇
 
-- 💬 Ask me about **Python, C, ML, DL, Linux, Cloud Computing, Offensive Security...**
+- 💬 Ask me about **Python, Linux, Cloud Computing, DevOps**
 - 🕸️ Currently I'm learning **Front-End Web Development** from [Frontend Masters](https://frontendmasters.com)
 - 📫 How to reach me **balasubhayu99@gmail.com** 
 <!--
