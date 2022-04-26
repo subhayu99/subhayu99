@@ -29,7 +29,7 @@
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhayu99" alt="subhayu99" />
 <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen> </p>
-<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=subhayu99&theme=alduin> </p>
+<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=subhayu99&theme=alduin&column=4> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhayu99&theme=dark&show_icons=true" alt="subhayu99" /> </p>
 
 <p align="center">
