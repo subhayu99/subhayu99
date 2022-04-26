@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available here. 👇
 
 - 💬 Ask me about **Python, Linux, Cloud Computing, DevOps**
-- 🕸️ Currently I'm learning **Front-End Web Development** from [Frontend Masters](https://frontendmasters.com)
+- 🕸️ Currently interning as a Software Engineer at FiftyFive Technologies.
 - 📫 How to reach me **balasubhayu99@gmail.com** 
 <!--
 <p align="left">
