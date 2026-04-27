@@ -19,7 +19,7 @@ Data & Infrastructure Engineer · 4 YoE · Currently at **[Loop AI](https://getl
 
 I work on data platforms, AI/LLM pipelines, and the kind of performance problems where you stare at query plans for hours. Most of my work has been in consulting — shipping production systems for clients across healthcare, finance, logistics, and food-tech.
 
-I write open-source tools when I find myself solving the same problem twice — [<!-- DOWNLOADS_START -->46,000+<!-- DOWNLOADS_END --> PyPI downloads](https://pypi.org/user/subhayu99/) across 6 packages so far. I also have a published research paper on [quantum computing simulation](https://doi.org/10.1049/qtc2.12058) from my undergrad days.
+I write open-source tools when I find myself solving the same problem twice — [<!-- DOWNLOADS_START -->47,000+<!-- DOWNLOADS_END --> PyPI downloads](https://pypi.org/user/subhayu99/) across 6 packages so far. I also have a published research paper on [quantum computing simulation](https://doi.org/10.1049/qtc2.12058) from my undergrad days.
 
 When I'm not debugging ingestion pipelines, I'm probably over-engineering my [portfolio website](https://subhayu99.github.io).
 
